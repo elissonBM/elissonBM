@@ -1,3 +1,5 @@
+
+<div align="center">
 ### Hello world👋 <img src="https://komarev.com/ghpvc/?username=jv-paltanin&label=Profile%20views&color=0e75b6&style=social" alt="João Victor Paltanin" />
 
 My name is Elisson, I'm a Java developer studying to become a junior.
@@ -15,6 +17,8 @@ My name is Elisson, I'm a Java developer studying to become a junior.
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elissonbm/)
   
   [![Elisson Machado's GitHub stats](https://github-readme-stats.vercel.app/api?username=elissonBM&hide=contribs,issues&show_icons=true)](https://github.com/elissonBM/github-readme-stats)
+  
+  </div>
 <!--
 **elissonBM/elissonBM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
