@@ -1,6 +1,8 @@
-### Hello world👋
+### Hello world👋 <img src="https://komarev.com/ghpvc/?username=jv-paltanin&label=Profile%20views&color=0e75b6&style=social" alt="João Victor Paltanin" />
 
-My name is Elisson, I'm a Java developer studying to become a junior
+My name is Elisson, I'm a Java developer studying to become a junior.
+
+
 
 ## Contact
 
@@ -25,5 +27,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  - ⚡ Fun fact: ...
 -->
